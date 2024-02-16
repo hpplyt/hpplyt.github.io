@@ -19,7 +19,7 @@ I did my BSc in Bioinformats at the LMU and TU in Munich.
 I am broadly interested in probabilistic machine learning and more specifically Bayesian deep learning.
 My work has revolved around developing structured posterior approximations that are efficient enough to apply to large neural networks.
 I am particularly interested in settings that go beyond uncertainty estimation, such as continual learning or data distillation.
-I strongly believe in making research work more broadly accessible and have led the development of [TyXe](https://github.com/TyXe-BDL/TyXe), an source library for Bayesian neural networks based on [Pyro](https://github.com/pyro-ppl/pyro).
+I strongly believe in making research work more broadly accessible and have led the development of [TyXe](https://github.com/TyXe-BDL/TyXe), an open source library for Bayesian neural networks based on [Pyro](https://github.com/pyro-ppl/pyro).
 
 {% include_relative _includes/publications.md %}
 
