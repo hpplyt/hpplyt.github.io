@@ -1,0 +1,6 @@
+@inproceedings{ritter2021sparse,
+  title={Sparse uncertainty representation in deep learning with inducing weights},
+  author={Ritter, Hippolyt and Kukla, Martin and Zhang, Cheng and Li, Yingzhen},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2021}
+}

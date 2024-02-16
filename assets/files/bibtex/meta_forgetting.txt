@@ -1,0 +1,6 @@
+@inproceedings{yap2021addressing,
+  title={Addressing catastrophic forgetting in few-shot problems},
+  author={Yap, Pauching and Ritter, Hippolyt and Barber, David},
+  booktitle={International Conference on Machine Learning},
+  year={2021}
+}

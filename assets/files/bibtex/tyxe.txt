@@ -1,0 +1,6 @@
+@inproceedings{ritter2022tyxe,
+  title="Ty{X}e: {P}yro-based {B}ayesian neural nets for {P}ytorch",
+  author={Ritter, Hippolyt and Karaletsos, Theofanis},
+  bibtex={Proceedings of Machine Learning and Systems},
+  year={2022}
+}

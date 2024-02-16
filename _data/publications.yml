@@ -1,0 +1,80 @@
+main:
+
+  - title: Black-box coreset variational inference
+    authors: Dionysis Manousakas*, <strong>Hippolyt Ritter*</strong>, Theofanis Karaletsos.
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
+    arxiv: https://arxiv.org/abs/2211.02377
+    openreview: https://openreview.net/forum?id=XBXEfw6OxRh
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/dce5d66bf88b7b7d0f11fbd9c9f16620-Paper-Conference.pdf
+    code: https://github.com/facebookresearch/Blackbox-Coresets-VI
+    bibtex: ./assets/files/bibtex/coreset_bbvi.txt
+    image: ./assets/img/teaser/coreset_bbvi.png
+    notes:
+
+  - title: "TyXe: Pyro-based Bayesian neural nets for Pytorch"
+    authors: <strong>Hippolyt Ritter</strong>, Theofanis Karaletsos.
+    conference_short: MLSys
+    conference: Proceedings of Machine Learning and Systems <strong>(MLSys)</strong>, 2022.
+    arxiv: https://arxiv.org/abs/2110.00276
+    pdf: https://proceedings.mlsys.org/paper_files/paper/2022/file/14bc46029b7ac590f56a203e0a3ef586-Paper.pdf
+    code: https://github.com/TyXe-BDL/TyXe
+    bibtex: ./assets/files/bibtex/tyxe.txt
+    image: ./assets/img/teaser/tyxe.png
+    notes:
+
+  - title: Sparse uncertainty representation in deep learning with inducing weights
+    authors: <strong>Hippolyt Ritter</strong>, Martin Kukla, Cheng Zhang, Yingzhen Li.
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
+    arxiv: https://arxiv.org/abs/2105.14594
+    openreview: https://openreview.net/forum?id=SkU3kbKTrb6
+    pdf: https://proceedings.neurips.cc/paper/2021/file/334467d41d5cf21e234465a1530ba647-Paper.pdf
+    code: https://github.com/microsoft/bayesianize
+    bibtex: ./assets/files/bibtex/inducing_weights.txt
+    image: ./assets/img/teaser/inducing_weights.png
+    notes:
+
+  - title: Addressing catastrophic forgetting in few-shot problems
+    authors: Pauching Yap, <strong>Hippolyt Ritter</strong>, David Barber.
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2021.
+    arxiv: https://arxiv.org/abs/2005.00146
+    pdf: http://proceedings.mlr.press/v139/yap21a/yap21a.pdf
+    code: https://github.com/pauchingyap/boml
+    bibtex: ./assets/files/bibtext/meta_forgetting.txt
+    image: ./assets/img/teaser/meta_forgetting.png
+    notes:
+
+  - title: Online structured Laplace approximations for overcoming catastrophic forgetting
+    authors: <strong>Hippolyt Ritter</strong>, Aleksandar Botev, David Barber.
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2018.
+    arxiv: https://arxiv.org/abs/1805.07810
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2018/file/f31b20466ae89669f9741e047487eb37-Paper.pdf
+    bibtex: ./assets/files/bibtex/osla.txt
+    image: ./assets/img/teaser/osla.png
+    notes:
+
+  - title: A scalable Laplace approximation for neural networks
+    authors: <strong>Hippolyt Ritter</strong>, Aleksandar Botev, David Barber.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2018.
+    openreview: https://openreview.net/forum?id=Skdvd2xAZ
+    pdf: https://openreview.net/pdf?id=Skdvd2xAZ
+    code: https://github.com/BB-UCL/Lasagne/tree/kf
+    bibtex: ./assets/files/bibtex/kf_laplace.txt
+    image: ./assets/img/teaser/kf_laplace.png
+    notes:
+
+  - title: Practical Gauss-Newton optimisation for deep learning
+    authors: Aleksandar Botev, <strong>Hippolyt Ritter</strong>, David Barber.
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2017.
+    arxiv: https://arxiv.org/abs/1706.03662
+    pdf: http://proceedings.mlr.press/v70/botev17a/botev17a.pdf
+    code: https://github.com/BB-UCL/Lasagne/tree/kf
+    bibtex: ./assets/files/bibtex/kfgn.txt
+    image: ./assets/img/teaser/kfgn.png
+    notes:
+

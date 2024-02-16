@@ -1,0 +1,6 @@
+@inproceedings{ritter2018online,
+  title="Online structured {L}aplace approximations for overcoming catastrophic forgetting",
+  author={Ritter, Hippolyt and Botev, Aleksandar and Barber, David},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2018}
+}

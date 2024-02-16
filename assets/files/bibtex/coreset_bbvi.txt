@@ -1,0 +1,6 @@
+@inproceedings{manousakas2022black,
+  title={Black-box coreset variational inference},
+  author={Manousakas, Dionysis and Ritter, Hippolyt and Karaletsos, Theofanis},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
+}
